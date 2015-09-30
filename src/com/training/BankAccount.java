@@ -1,6 +1,11 @@
 package com.training;
 
 public class BankAccount {
+	
+		void Display()
+		{
+			System.out.println("heyyaaa!!!");
+		}
 
 	private double balance = 2000;
 	public BankAccount()
